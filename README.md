@@ -1,6 +1,8 @@
-# awesome-ideas
+# Awesome Ideas
 
-💡 I constantly come up with ideas but I don't have enough time to build or validate them. 
+<img width="80" src="https://user-images.githubusercontent.com/711311/67202543-24281380-f409-11e9-812c-58b2872fc79e.png" alt="" role="presentation">
+
+I constantly come up with ideas but I don't have enough time to build or validate them. 
 
 This repo collects ideas I've had over time and that folks can pick up and implement. See the [open issues](https://github.com/giuseppeg/awesome-ideas/issues) for a [list of ideas](https://github.com/giuseppeg/awesome-ideas/issues).
 
